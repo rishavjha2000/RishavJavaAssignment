@@ -1,3 +1,8 @@
+2) Given the following class Employee class{ Double Age; Double Salary; String Name}
+Design the class in such a way that the default sorting should work on firstname and lastname.
+    
+// Code is below.    
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
